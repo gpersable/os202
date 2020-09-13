@@ -1,10 +1,2 @@
-<!--
----
-layout: page
-title: Gita's OS202
-permalink: /os202/
----
--->
-
 # os202
 OS202
