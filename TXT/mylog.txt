@@ -1,5 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-L03 Github related
+ZCZC W00 10 L03 Github related
