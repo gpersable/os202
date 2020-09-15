@@ -1,14 +1,8 @@
-[WEB](https://gpersable.github.io/os202/)
+[WEB](https://gpersable.github.io/os202/) | 
 [GitHub](https://github.com/gpersable/os202/)
 
-<br>
-
-# My name is Gita
-
 ## [My Log](TXT/mylog.txt)
-<br>
-<hr>
-<br>
+
 ## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
 * [Week 01](W01/)
