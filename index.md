@@ -2,6 +2,7 @@
 [GitHub](https://github.com/gpersable/os202/)
 
 ## [My Log](TXT/mylog.txt)
+<br>
 
 ## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
