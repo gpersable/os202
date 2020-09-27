@@ -14,7 +14,7 @@ ZCZC W00  80 L08 Trying something
 ZCZC W01  20 L00 General Log
 ZCZC W01  30 L01 SCELE related
 ZCZC W01 110 L02 ZOOM related
-ZCZC W01  85 L05 GSGS related
+ZCZC W01 135 L05 GSGS related
 ZCZC W01  85 L08 Trying something
 ZCZC W01 150 L10 Assignment (General)
 ZCZC W01  15 L11 Assignment #1: Create or Import a Debian Virtual Guest
@@ -24,5 +24,7 @@ ZCZC W01  30 L14 Assignment #4: Create a tunnel from my guest to badak.cs.ui.ac.
 ZCZC W01  10 L15 Assignment #5: Do rsync from badak:///extra/Doc/, badak:///extra/Slides/, and badak:///extra/Demos/
 ZCZC W01   5 L16 Assignment #6: GIT PULL my 'os202' repo from GitHub
 ZCZC W01  10 L17 Assignment #7: Update and PUSH back mylog.txt
-ZCZC W01  75 L18 Assignment #8: Create w00.md and w01.md for my weekly TOP 10 list
+ZCZC W01 135 L18 Assignment #8: Create & update w00.md and w01.md for my weekly TOP 10 list
+ZCZC W01  45 L21 VirtualBox: install GNU/Linux, settings
+ZCZC W01  18 L22 YouTube: study about VM, container, and K8s
 
