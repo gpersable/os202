@@ -27,7 +27,8 @@ ZCZC W01  30 L14 Assignment #4: Create a tunnel from my guest to badak.cs.ui.ac.
 ZCZC W01  10 L15 Assignment #5: Do rsync from badak:///extra/Doc/, badak:///extra/Slides/, and badak:///extra/Demos/
 ZCZC W01   5 L16 Assignment #6: GIT PULL my 'os202' repo from GitHub
 ZCZC W01  10 L17 Assignment #7: Update and PUSH back mylog.txt
-ZCZC W01 180 L18 Assignment #8: Create & update w00.md and w01.md for my weekly TOP 10 list
+ZCZC W01 180 L18 Assignment #8: Create & UPDATE w00.md and w01.md for my weekly TOP 10 list
+ZCZC W01  70 L19 Assignment #9: Read OSC10 chapter 1, 2, and 18
 ZCZC W01  45 L21 VirtualBox: install GNU/Linux, settings
 ZCZC W01  23 L22 YouTube: study about VM, container, and K8s
 
