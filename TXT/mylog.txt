@@ -45,7 +45,7 @@ ZCZC W02  10 L12 Assignment #2: Generate a GnuPG Key Pair
 ZCZC W02   5 L13 Assignment #3: Import the operatingsystems@vlsm.org Public Key
 ZCZC W02   1 L14 Assignment #4: Export MY PUBLIC KEY to mypubkey.txt on my 'os202' GitHub repo
 ZCZC W02  10 L15 Assignment #5: Review closest neighbors and place the result to myrank.txt
-ZCZC W02 150 L16 Assignment #6: Update my TOP 10 List of Week 02 (w02.md)
+ZCZC W02 155 L16 Assignment #6: Update my TOP 10 List of Week 02 (w02.md)
 ZCZC W02   5 L17 Assignment #7: Write a simple & useful bash script (myscript.sh)
 ZCZC W02  10 L18 Assignment #8: Update mylog.txt
 ZCZC W02   1 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
