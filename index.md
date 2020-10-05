@@ -1,7 +1,7 @@
 [WEB](https://gpersable.github.io/os202/) | 
 [GitHub](https://github.com/gpersable/os202/)
 
-## [My Log](TXT/mylog.txt)
+## [My Log](TXT/mylog.txt) | [My Rank](TXT/myrank.txt)
 <br>
 
 ## Operating Systems Weekly Top Ten List
