@@ -37,7 +37,7 @@ ZCZC W02  10 L00 General Log
 ZCZC W02   5 L01 SCELE related 
 ZCZC W02 110 L02 ZOOM related
 ZCZC W02 100 L05 GSGS related
-ZCZC W02  15 L06 Reading Refereces/Books/Documents
+ZCZC W02  15 L06 Reading References/Books/Documents
 ZCZC W02  15 L08 Trying something (modify .bash_aliases, etc)
 ZCZC W02 200 L10 Assignment (General)
 ZCZC W02  45 L11 Assignment #1: Read OSC10 ch. 16, 17
@@ -50,4 +50,21 @@ ZCZC W02   5 L17 Assignment #7: Write a simple & useful bash script (myscript.sh
 ZCZC W02  10 L18 Assignment #8: Update mylog.txt
 ZCZC W02   1 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W02  20 L22 YouTube: study about Computer Security
+
+# Week 3
+ZCZC W03  10 L00 General Log
+ZCZC W03  35 L01 SCELE related: answering questions from Pak Rahmat
+ZCZC W03  80 L02 ZOOM related
+ZCZC W03  50 L05 GSGS related: about errors while running the "make" command, adding user to sudoers, etc
+ZCZC W03  42 L06 Reading references/books/documents
+ZCZC W03  40 L08 Trying something
+ZCZC W03  60 L10 Assignment (General)
+ZCZC W03  42 L11 Assignment #1: Read OSC10 chapter 13 + chapter 14 + chapter 15
+ZCZC W03  30 L12 Assignment #2: Try Demos Week 03 and Week 02
+ZCZC W03   5 L13 Assignment #3: Visit my Virtual Guest, and update file .bash_aliases
+ZCZC W03  20 L14 Assignment #4: Review Last Week TOP 10 List and pick 3 top neighbors, and update myrank.txt
+ZCZC W03   3 L16 Assignment #6: Run "chtoken OS202" and write the result into myW03token.txt
+ZCZC W03  30 L17 Assignment #7: Download TLPI Code and write the "disk usage" (du) into myW03disk.txt
+ZCZC W03  10 L18 Assignment #8: Update mylog.txt
+ZCZC W03   2 L19 Assignment #9: Update bash script (myscript.sh)
 
