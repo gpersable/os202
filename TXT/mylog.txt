@@ -55,8 +55,10 @@ ZCZC W02  20 L22 YouTube: study about Computer Security
 ZCZC W03  10 L00 General Log
 ZCZC W03  35 L01 SCELE related: answering questions from Pak Rahmat
 ZCZC W03  80 L02 ZOOM related
+ZCZC W03   5 L03 GitHub related: editing w03.md
 ZCZC W03 120 L05 GSGS related: about errors while running the "make" command, adding user to sudoers, etc
 ZCZC W03  42 L06 Reading references/books/documents
+ZCZC W03  30 L07 Demo related
 ZCZC W03  40 L08 Trying something
 ZCZC W03  60 L10 Assignment (General)
 ZCZC W03  42 L11 Assignment #1: Read OSC10 chapter 13 + chapter 14 + chapter 15
