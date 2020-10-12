@@ -20,15 +20,15 @@ ZCZC W01 110 L02 ZOOM related
 ZCZC W01 175 L05 GSGS related
 ZCZC W01  85 L08 Trying something
 ZCZC W01 210 L10 Assignment (General)
-ZCZC W01  15 L11 Assignment #1: Create or Import a Debian Virtual Guest
-ZCZC W01  30 L12 Assignment #2: Log into the guest and learn some CLI commands
-ZCZC W01   2 L13 Assignment #3: Create a new user account in Debian
-ZCZC W01  30 L14 Assignment #4: Create a tunnel from my guest to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
-ZCZC W01  10 L15 Assignment #5: Do rsync from badak:///extra/Doc/, badak:///extra/Slides/, and badak:///extra/Demos/
-ZCZC W01   5 L16 Assignment #6: GIT PULL my 'os202' repo from GitHub
-ZCZC W01  10 L17 Assignment #7: Update and PUSH back mylog.txt
-ZCZC W01 180 L18 Assignment #8: Create & UPDATE w00.md and w01.md for my weekly TOP 10 list
-ZCZC W01  70 L19 Assignment #9: Read OSC10 chapter 1, 2, and 18
+ZCZC W01  15 L11 Assignment 1: Create or Import a Debian Virtual Guest
+ZCZC W01  30 L12 Assignment 2: Log into the guest and learn some CLI commands
+ZCZC W01   2 L13 Assignment 3: Create a new user account in Debian
+ZCZC W01  30 L14 Assignment 4: Create a tunnel from my guest to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
+ZCZC W01  10 L15 Assignment 5: Do rsync from badak:///extra/Doc/, badak:///extra/Slides/, and badak:///extra/Demos/
+ZCZC W01   5 L16 Assignment 6: GIT PULL my 'os202' repo from GitHub
+ZCZC W01  10 L17 Assignment 7: Update and PUSH back mylog.txt
+ZCZC W01 180 L18 Assignment 8: Create & UPDATE w00.md and w01.md for my weekly TOP 10 list
+ZCZC W01  70 L19 Assignment 9: Read OSC10 chapter 1, 2, and 18
 ZCZC W01  45 L21 VirtualBox: install GNU/Linux, settings
 ZCZC W01  23 L22 YouTube: study about VM, container, and K8s
 
@@ -40,15 +40,15 @@ ZCZC W02 100 L05 GSGS related
 ZCZC W02  15 L06 Reading References/Books/Documents
 ZCZC W02  15 L08 Trying something (modify .bash_aliases, etc)
 ZCZC W02 200 L10 Assignment (General)
-ZCZC W02  45 L11 Assignment #1: Read OSC10 ch. 16, 17
-ZCZC W02  10 L12 Assignment #2: Generate a GnuPG Key Pair
-ZCZC W02   5 L13 Assignment #3: Import the operatingsystems@vlsm.org Public Key
-ZCZC W02   1 L14 Assignment #4: Export MY PUBLIC KEY to mypubkey.txt on my 'os202' GitHub repo
-ZCZC W02  10 L15 Assignment #5: Review closest neighbors and place the result to myrank.txt
-ZCZC W02 155 L16 Assignment #6: Update my TOP 10 List of Week 02 (w02.md)
-ZCZC W02   5 L17 Assignment #7: Write a simple & useful bash script (myscript.sh)
-ZCZC W02  10 L18 Assignment #8: Update mylog.txt
-ZCZC W02   1 L19 Assignment #9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W02  45 L11 Assignment 1: Read OSC10 ch. 16, 17
+ZCZC W02  10 L12 Assignment 2: Generate a GnuPG Key Pair
+ZCZC W02   5 L13 Assignment 3: Import the operatingsystems@vlsm.org Public Key
+ZCZC W02   1 L14 Assignment 4: Export MY PUBLIC KEY to mypubkey.txt on my 'os202' GitHub repo
+ZCZC W02  10 L15 Assignment 5: Review closest neighbors and place the result to myrank.txt
+ZCZC W02 155 L16 Assignment 6: Update my TOP 10 List of Week 02 (w02.md)
+ZCZC W02   5 L17 Assignment 7: Write a simple & useful bash script (myscript.sh)
+ZCZC W02  10 L18 Assignment 8: Update mylog.txt
+ZCZC W02   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W02  20 L22 YouTube: study about Computer Security
 
 # Week 3
@@ -61,14 +61,14 @@ ZCZC W03  42 L06 Reading references/books/documents
 ZCZC W03  30 L07 Demo related
 ZCZC W03  40 L08 Trying something
 ZCZC W03  60 L10 Assignment (General)
-ZCZC W03  42 L11 Assignment #1: Read OSC10 chapter 13 + chapter 14 + chapter 15
-ZCZC W03  30 L12 Assignment #2: Try Demos Week 03 and Week 02
-ZCZC W03   5 L13 Assignment #3: Visit my Virtual Guest, and update file .bash_aliases
-ZCZC W03  20 L14 Assignment #4: Review Last Week TOP 10 List and pick 3 top neighbors, and update myrank.txt
-ZCZC W03  73 L15 Assignment #5: Create my TOP 10 List of Week 03 (w03.md)
-ZCZC W03   3 L16 Assignment #6: Run "chtoken OS202" and write the result into myW03token.txt
-ZCZC W03  30 L17 Assignment #7: Download TLPI Code and write the "disk usage" (du) into myW03disk.txt
-ZCZC W03  10 L18 Assignment #8: Update mylog.txt
-ZCZC W03   2 L19 Assignment #9: Update bash script (myscript.sh)
-ZCZC W03   1 L20 Assignment #10: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W03  42 L11 Assignment 1: Read OSC10 chapter 13 + chapter 14 + chapter 15
+ZCZC W03  30 L12 Assignment 2: Try Demos Week 03 and Week 02
+ZCZC W03   5 L13 Assignment 3: Visit my Virtual Guest, and update file .bash_aliases
+ZCZC W03  20 L14 Assignment 4: Review Last Week TOP 10 List and pick 3 top neighbors, and update myrank.txt
+ZCZC W03  73 L15 Assignment 5: Create my TOP 10 List of Week 03 (w03.md)
+ZCZC W03   3 L16 Assignment 6: Run "chtoken OS202" and write the result into myW03token.txt
+ZCZC W03  30 L17 Assignment 7: Download TLPI Code and write the "disk usage" (du) into myW03disk.txt
+ZCZC W03  10 L18 Assignment 8: Update mylog.txt
+ZCZC W03   2 L19 Assignment 9: Update bash script (myscript.sh)
+ZCZC W03   1 L20 Assignment 10: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 
