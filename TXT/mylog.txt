@@ -72,3 +72,12 @@ ZCZC W03  10 L18 Assignment 8: Update mylog.txt
 ZCZC W03   2 L19 Assignment 9: Update bash script (myscript.sh)
 ZCZC W03   1 L20 Assignment 10: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 
+# Week 4
+ZCZC W04  30 L00 General Log
+ZCZC W04  90 L02 ZOOM related
+ZCZC W04   5 L12 Assignment 2: Update my Virtual Guest
+ZCZC W04   2 L15 Assignment 5: Run "chktoken NEWHOPE" and write the result into myW04token.txt
+ZCZC W04   8 L16 Assignment 6: Download https://os.vlsm.org/WEEK/W04.tar.bz2.asc and write the result into TXT/myW04.txt
+ZCZC W04   5 L17 Assignment 7: Update mylog.txt
+ZCZC W04   2 L18 Assignment 8: Update myscript.sh
+
