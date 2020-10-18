@@ -75,9 +75,15 @@ ZCZC W03   1 L20 Assignment 10: Make SHA256SUM and sign it (detached, armor) as 
 # Week 4
 ZCZC W04  30 L00 General Log
 ZCZC W04  90 L02 ZOOM related
+ZCZC W04  22 L06 Read OSC10 slides
+ZCZC W04  16 L07 Demo related
+ZCZC W04  60 L10 Assignment (General)
+ZCZC W04  38 L11 Assignment 1: Read OSC10 chapter 9 and try Demos Week 4
 ZCZC W04   5 L12 Assignment 2: Update my Virtual Guest
+ZCZC W04  10 L13 Assignment 3: Review Last Week TOP 10 List, pick 3 neighbors, and put them to myrank.txt
 ZCZC W04   2 L15 Assignment 5: Run "chktoken NEWHOPE" and write the result into myW04token.txt
 ZCZC W04   8 L16 Assignment 6: Download https://os.vlsm.org/WEEK/W04.tar.bz2.asc and write the result into TXT/myW04.txt
 ZCZC W04   5 L17 Assignment 7: Update mylog.txt
 ZCZC W04   2 L18 Assignment 8: Update myscript.sh
+ZCZC W04   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 
