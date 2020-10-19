@@ -90,5 +90,5 @@ ZCZC W04   5 L17 Assignment 7: Update mylog.txt
 ZCZC W04   2 L18 Assignment 8: Update myscript.sh
 ZCZC W04   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W04   5 L21 VirtualBox
-ZCZC W04   7 L22 YouTube: watch udacity video
+ZCZC W04   7 L22 YouTube: watch udacity video, also a video about memory management
 
