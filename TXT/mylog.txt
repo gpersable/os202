@@ -92,3 +92,13 @@ ZCZC W04   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as S
 ZCZC W04   5 L21 VirtualBox
 ZCZC W04   7 L22 YouTube: watch udacity video, also a video about memory management
 
+# Week 5
+ZCZC W05  30 L00 General Log
+ZCZC W05  70 L02 Zoom related
+ZCZC W05  21  L10 Assignment (General)
+ZCZC W05   1 L12 Assignment 2: Update my Virtual Guest
+ZCZC W05   1 L15 Assignment 5: Run "chtoken 12345" and write the result to myW05token.txt
+ZCZC W05   5 L16 Assignment 6: Download https://os.vlsm.org/WEEK/W05.tar.bz2.asc and write the result into TXT/myW05.txt
+ZCZC W05  10 L17 Assignment 7: Update mylog.txt
+ZCZC W05   4 L18 Assignment 8: Update my bash script
+

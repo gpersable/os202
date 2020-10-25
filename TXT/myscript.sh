@@ -1,4 +1,6 @@
 #!/bin/bash
+# Gita Permatasari Sujatmiko
+# Mon 26 Oct 2020 05:43:55 AM WIB
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
