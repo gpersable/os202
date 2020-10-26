@@ -96,7 +96,7 @@ ZCZC W04   7 L22 YouTube: watch udacity video, also a video about memory managem
 ZCZC W05  30 L00 General Log
 ZCZC W05   5 L01 SCELE related: Answering Pak Rahmat's question in forum
 ZCZC W05  70 L02 ZOOM related: OS synchronous class
-ZCZC W05  15 L05 GSGS related: Search about running docker on my Virtual Guest
+ZCZC W05  60 L05 GSGS related: Search about running docker on my Virtual Guest
 ZCZC W05  30 L06 Read OSC10 slides
 ZCZC W05  10 L07 Demo related: Try Week05 Demos
 ZCZC W05 126 L10 Assignment (General)
