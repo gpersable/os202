@@ -97,14 +97,17 @@ ZCZC W05  30 L00 General Log
 ZCZC W05   5 L01 SCELE related: Answering Pak Rahmat's question in forum
 ZCZC W05  70 L02 ZOOM related: OS synchronous class
 ZCZC W05  15 L05 GSGS related: Search about running docker on my Virtual Guest
-ZCZC W04  30 L06 Read OSC10 slides
-ZCZC W05  65 L10 Assignment (General)
+ZCZC W05  30 L06 Read OSC10 slides
+ZCZC W05  10 L07 Demo related: Try Week05 Demos
+ZCZC W05 126 L10 Assignment (General)
 ZCZC W05  30 L11 Assignment 1: Read OSC10 chapter 10
 ZCZC W05   1 L12 Assignment 2: Update my Virtual Guest
 ZCZC W05  14 L13 Assignment 3: Review Last Week TOP 10 List and pick at least 3, and put the result into myrank.txt
+ZCZC W05  55 L14 Assignment 4: Create my TOP 10 List of Week 05 (w05.md) about Virtual Memory
 ZCZC W05   1 L15 Assignment 5: Run "chtoken 12345" and write the result into myW05token.txt
 ZCZC W05   5 L16 Assignment 6: Download https://os.vlsm.org/WEEK/W05.tar.bz2.asc and write the result into TXT/myW05.txt
 ZCZC W05  10 L17 Assignment 7: Update mylog.txt
 ZCZC W05   4 L18 Assignment 8: Update my bash script
 ZCZC W05   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W05   5 L22 YouTube: Watch about Virtual Memory
 
