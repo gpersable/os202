@@ -114,12 +114,17 @@ ZCZC W05   5 L22 YouTube: Watch about Virtual Memory
 # Week 6
 ZCZC W06  30 L00 General Log
 ZCZC W06  78 L02 ZOOM related: OS synchronous class
-ZCZC W06   2 L05 GSGS related
+ZCZC W06  17 L05 GSGS related
+ZCZC W06  10 L08 Trying something
+ZCZC W06 100 L10 Assignment (General)
 ZCZC W06   1 L12 Assignment 2: Update Virtual Guest
+ZCZC W06  15 L13 Assignment 3: Review Last Week TOP 10 List and pick at least 3 from 10 closest neighbors and put the result into myrank.txt
 ZCZC W06   1 L15 Assignment 5: Run "chktoken JOLANTRU" and write the result into myW06token.txt.
 ZCZC W06  73 L16 Assignment 6: Download https://os.vlsm.org/WEEK/W06.tar.bz2.asc and write the result into TXT/myW06.txt
 ZCZC W06   5 L17 Assignment 7: Update my log (mylog.txt)
+ZCZC W06   3 L18 Assignment 8: Update bash script
 ZCZC W06   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
-ZCZC W06   1 L20 Assignment 10: Do "make clean" your W06/ folder and "tar" it back into myW06.tar.bz2
+ZCZC W06   1 L20 Assignment 10: Do "make clean" my W06/ folder and "tar" it back into myW06.tar.bz2
 ZCZC W06   2 L20 Assignment 11: GnuPG encrypt (armor) to myW06.tar.bz2.txt
+ZCZC W06  30 L25 C-language: study & a little bit of coding
 
