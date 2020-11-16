@@ -124,7 +124,7 @@ ZCZC W06  15 L13 Assignment 3: Review Last Week TOP 10 List and pick at least 3 
 ZCZC W06  45 L14 Assignment 4: Create my TOP 10 List of Week 06
 ZCZC W06   1 L15 Assignment 5: Run "chktoken JOLANTRU" and write the result into myW06token.txt.
 ZCZC W06  73 L16 Assignment 6: Download https://os.vlsm.org/WEEK/W06.tar.bz2.asc and write the result into TXT/myW06.txt
-ZCZC W06   5 L17 Assignment 7: Update my log (mylog.txt)
+ZCZC W06  10 L17 Assignment 7: Update my log (mylog.txt)
 ZCZC W06   3 L18 Assignment 8: Update bash script
 ZCZC W06   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W06   1 L20 Assignment 10: Do "make clean" my W06/ folder and "tar" it back into myW06.tar.bz2
