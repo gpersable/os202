@@ -131,3 +131,16 @@ ZCZC W06   1 L20 Assignment 10: Do "make clean" my W06/ folder and "tar" it back
 ZCZC W06   2 L20 Assignment 11: GnuPG encrypt (armor) to myW06.tar.bz2.txt
 ZCZC W06  30 L25 C-language: study & a little bit of coding
 
+# Week 7
+ZCZC W07  30 L00 General Log
+ZCZC W07  44 L02 ZOOM related: OS synchronous class
+ZCZC W07  50 L05 GSGS related: about process synchronization
+ZCZC W07  85 L10 Assignment (General)
+ZCZC W07   1 L11 Assignment 1: - Week 07 Token: TFAWAKENS
+ZCZC W07   1 L13 Assignment 3: Update my Virtual Guest
+ZCZC W07  13 L14 Assignment 4: Review Last Week TOP 10 and pick 3 out of 10 closest neighbors and put the result into myrank.txt
+ZCZC W07  65 L15 Assignment 5: Create my TOP 10 List of Week 07
+ZCZC W07   1 L16 Assignment 6: Run "chktoken TFAWAKENS" and write the result into myW07token.txt.
+ZCZC W07   5 L18 Assignment 8: Update my log (mylog.txt)
+ZCZC W07   1 L19 Assignment 9: Update bash script
+

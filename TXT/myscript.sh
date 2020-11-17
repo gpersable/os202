@@ -1,6 +1,6 @@
 #!/bin/bash
 # Gita Permatasari Sujatmiko
-# Mon 16 Nov 2020 02:32:10 PM WIB
+# Tue 17 Nov 2020 08:17:15 PM WIB
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
