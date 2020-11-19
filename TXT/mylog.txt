@@ -140,7 +140,11 @@ ZCZC W07   1 L11 Assignment 1: - Week 07 Token: TFAWAKENS
 ZCZC W07   1 L13 Assignment 3: Update my Virtual Guest
 ZCZC W07  13 L14 Assignment 4: Review Last Week TOP 10 and pick 3 out of 10 closest neighbors and put the result into myrank.txt
 ZCZC W07  65 L15 Assignment 5: Create my TOP 10 List of Week 07
-ZCZC W07   1 L16 Assignment 6: Run "chktoken TFAWAKENS" and write the result into myW07token.txt.
+ZCZC W07   1 L16 Assignment 6: Run "chktoken TFAWAKENS" and write the result into myW07token.txt
+ZCZC W07  25 L17 Assignment 7: Download https://os.vlsm.org/WEEK/W07.tar.bz2.asc and do W07 assignment according to SCELE.
 ZCZC W07   5 L18 Assignment 8: Update my log (mylog.txt)
 ZCZC W07   1 L19 Assignment 9: Update bash script
+ZCZC W07   1 L20 Assignment 10: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W07   1 L20 Assignment 11: Do "make clean" my W07/ folder and "tar" it back into myW07.tar.bz2
+ZCZC W07   1 L20 Assignment 12: GnuPG encrypt (armor) to myW07.tar.bz2.txt
 
