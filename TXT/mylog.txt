@@ -135,8 +135,10 @@ ZCZC W06  30 L25 C-language: study & a little bit of coding
 ZCZC W07  30 L00 General Log
 ZCZC W07  44 L02 ZOOM related: OS synchronous class
 ZCZC W07  50 L05 GSGS related: about process synchronization
-ZCZC W07  85 L10 Assignment (General)
+ZCZC W07  50 L06 Read OSC10 slides
+ZCZC W07 150 L10 Assignment (General)
 ZCZC W07   1 L11 Assignment 1: - Week 07 Token: TFAWAKENS
+ZCZC W07  50 L12 Assignment 2: Read (OSC10 chapter 06 + chapter 07 + chapter 08)
 ZCZC W07   1 L13 Assignment 3: Update my Virtual Guest
 ZCZC W07  13 L14 Assignment 4: Review Last Week TOP 10 and pick 3 out of 10 closest neighbors and put the result into myrank.txt
 ZCZC W07  65 L15 Assignment 5: Create my TOP 10 List of Week 07
