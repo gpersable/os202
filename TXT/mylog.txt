@@ -154,12 +154,14 @@ ZCZC W07   1 L20 Assignment 12: GnuPG encrypt (armor) to myW07.tar.bz2.txt
 ZCZC W08  30 L00 General Log
 ZCZC W08 110 L02 ZOOM related: OS synchronous class
 ZCZC W08   5 L05 GSGS related
-ZCZC W08     L10 Assignment (General)
+ZCZC W08 110 L10 Assignment (General)
 ZCZC W08   1 L11 Assignment 1: Week 08 Token: LINUXFROMSCRATCH
 ZCZC W08   1 L13 Assignment 3: Update my Virtual Guest
 ZCZC W08   1 L16 Assignment 6: Run ”chktoken LINUXFROMSCRATCH” and write the result into myW08token.txt
 ZCZC W08  10 L17 Assignment 7: Update my log (mylog.txt)
 ZCZC W08   1 L18 Assignment 8: Update bash script
 ZCZC W08   1 L19 Assignment 9: Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W08   2 L20 Assignment 10: Place the assignment result into W08/ folder and ”tar” it into myW08.tar.bz2
+ZCZC W08   1 L20 Assignment 11: GnuPG encrypt (armor) to myW08.tar.bz2.txt
 ZCZC W08 105 L21 VirtualBox: start all over because of some issues
 
