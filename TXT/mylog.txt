@@ -150,3 +150,9 @@ ZCZC W07   1 L20 Assignment 10: Make SHA256SUM and sign it (detached, armor) as 
 ZCZC W07   1 L20 Assignment 11: Do "make clean" my W07/ folder and "tar" it back into myW07.tar.bz2
 ZCZC W07   1 L20 Assignment 12: GnuPG encrypt (armor) to myW07.tar.bz2.txt
 
+# Week 8
+ZCZC W08  30 L00 General Log
+ZCZC W08 110 L02 ZOOM related: OS synchronous class
+ZCZC W08   5 L05 GSGS related
+ZCZC W08 105 L21 VirtualBox: start all over because of some issues
+
